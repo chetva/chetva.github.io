@@ -3,7 +3,7 @@
 cheta@uw.com
 ## Summary
 
-2021 University of Washington Geography with Data Science with minor in Diversity. Interested in social impact data and mapping projects.
+2021 University of Washington Geography with Data Science major with minor in Diversity. Interested in social impact data and mapping projects.
 
 ## Projects
 
@@ -45,5 +45,3 @@ cheta@uw.com
 **Mathematical concepts & reasoning**
 
 **Written & oral communication**
-
-
