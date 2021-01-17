@@ -4,7 +4,8 @@
 >-Albert Einstein
 
 cheta@uw.com
-www.linkedin.com/in/abriana-chet
+[www.linkedin.com/in/abriana-chet](www.linkedin.com/in/abriana-chet)
+
 ## Summary
 
 2021 [University of Washington Geography with Data Science](https://geography.washington.edu/) major with minor in Diversity. Interested in social impact data and mapping projects.
