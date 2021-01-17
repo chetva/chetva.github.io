@@ -4,7 +4,7 @@
 >-Albert Einstein
 
 <cheta@uw.edu> <br>
-<www.linkedin.com/in/abriana-chet>
+<https://www.linkedin.com/in/abriana-chet>
 
 ## Summary
 
