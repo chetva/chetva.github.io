@@ -27,13 +27,13 @@ cheta@uw.com
 
 ## Key Skills
 
-###Programming
+### Programming
 * JavaScript
 * R
 * Python
 * MATLAB
 
-###Applications
+### Applications
 * ArcGIS 
 * Fulcrum 
 * Scalar
@@ -42,4 +42,5 @@ cheta@uw.com
 * QGIS
 
 **Mathematical concepts & reasoning**
+
 **Written & oral communication**
