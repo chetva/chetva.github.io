@@ -1,55 +1,43 @@
-# Your Name
+# Abriana Chet
+cheta@uw.com
+## Summary
 
-your.name@example.com
+2021 University of Washington Geography with Data Science with minor in Diversity. Interested in social impact data and mapping projects. 
 
-http://www.example.com
+## Projects
 
-http://www.linkedin.com/in/yourname
+* Digital Tour Guide
+* Coffee Mania Mobile App 
+* Digital Archive: Digital Democracy 
+* Risk Zones in King County Map 
+* Breast Cancer Mortality by Ethnicity 
+* Hawaii Hazard Zones Map 
+* Carbon Footprint Maps 
+* Amazon Deforestation Map 
 
-# Summary
+## Course Work
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+ * Geography of the Developing World 
+ * Geography of Immigration 
+ * Race, Nature, Power 
+ * GIS & Mapping 
+ * Geography of Inequality 
+ * Digital Geographies 
+ * GIS Database and Programming
 
-# Work Experience (only last 10 years)
+## Key Skills
+####Programming
+* JavaScript
+* R
+* Python
+* MATLAB
+####Applications
+* ArcGIS 
+* Fulcrum 
+* Scalar
+* Microsoft Office 
+* ArcMap
+* QGIS
 
-## University Name 1 (City, State)
-
-* [University 1][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+#####Mathematical concepts & reasoning
+#####Written & oral communication
