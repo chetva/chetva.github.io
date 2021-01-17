@@ -3,7 +3,7 @@
 > "Logic will get you from A to B, imagination will take you everywhere."
 >-Albert Einstein
 
-[cheta@uw.edu](cheta@uw.edu)
+[cheta@uw.edu](cheta@uw.edu) <br>
 [https://www.linkedin.com/in/abriana-chet](https://www.linkedin.com/in/abriana-chet)
 
 ## Summary
