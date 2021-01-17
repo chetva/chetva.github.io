@@ -48,7 +48,7 @@
 * ArcMap
 * QGIS
 
-**Mathematical concepts & reasoning
-Written & oral communication
-Teamwork, efficiency, creativity
+**Mathematical concepts & reasoning<br>
+Written & oral communication<br>
+Teamwork, efficiency, creativity<br>
 Passionate for social justice & intensive studies in inequalities and community disparities**
